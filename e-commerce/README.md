@@ -45,3 +45,9 @@
 - `product` — наименование товара;
 - `quantity` — количество товара в заказе;
 - `price` — цена товара.
+
+
+Материалы
+
+- Ссылка на презентацию - https://disk.yandex.ru/i/6iP8y5DYjx0F0w  
+- Ссылка на дашборд - https://public.tableau.com/views/final_project_16612723095560/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
